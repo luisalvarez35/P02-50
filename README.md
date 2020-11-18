@@ -1,15 +1,3 @@
-# Descripcion Practicas P02-20 y P02-21
+# Descripcion Practicas P02-50
 
-## Practica P02-20
-___
-
-En esta practica se ha creado un repositorio local con cuatro archivos html y un README. En esa corpeta se ha creado un repositorio local utilizando `git init`, se ha creado un repositorio en GitHub para esta practica y se ha subido a el, despues se ha creado otra cuenta de Github utilizando un MAC y se ha invitado a esa cuenta al repositorio, se ha iniciado git en ese ordenador y se ha clonado el repositorio utilizando `git clone` para luego realizar cambios y subirlo al repositorio remoto mediante `git push`, el el ordenador windows se ha vuelto a sincronizar con `git pull`, se han realizados cambios y se ha vuelto a subir al repositorio remoto.
- 
----
-## Practica P02-21
-___
-En esta practica se han creado las dos carpetas de Casa e Instituto, se ha clonado el repositorio de la practica anterior en ambas carpetas y se han realizados cambios en una y sincronizado en el repositorio remoto con `git push` y sincronizado en el local de la otra carpeta con `git pull`. Luego se han realizado mas cambios y vuelto a sincronizar siguiendo los pasos anteriores.
-
-
-
-**Los commit realizados en ambas practicas se pueden ver el el repositorio.
+En esta practica se ha creado un repositorio local en las dos carpetas pedidas y uno remoto llamado P02-50. Se ha creado en la carpetacasa una nueva rama con `git branch rama1`, se han realizado cambios y se han subido al repositorio local. despues de ha cambiado a la rama principal con `git checkout main` para realizar cambios y subirlos al repositorio remoto. En la otra carpeta se han sincronizadolas ramas desde el repositorio remoto y se han comprobado los cambios en cada una de ellas. Prara finalizar se ha unido la rama1 a la principal usando `git merge rama1`. Todos los commits y operaciones durante el proceso se pueden ver en el repositorio remoto.
